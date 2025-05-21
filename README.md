@@ -1,3 +1,2 @@
-
-![image](logo.png)
+![logo](logo.png)
 <h1>portfolio website</h1>
