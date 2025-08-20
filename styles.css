@@ -3,7 +3,7 @@ body {
     font-family: 'Roboto', sans-serif; 
     background-color: #f0f0f0; 
     color: #333333;
-    background-image: url('home\ back.png');
+    background-image: url('home\ arslaan.webp');
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
@@ -536,4 +536,5 @@ p {
 .content-wrappe{
     align-items: center;
     text-align: center;}
+
 
